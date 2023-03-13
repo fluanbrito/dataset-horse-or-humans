@@ -1,6 +1,6 @@
-# _DataSet "horses_or_humans"_ (Avaliação Sprint 3 - Programa de Bolsas Compass.uol / AWS e IFCE)_
+# _DataSet "horses_or_humans"_
 
-### Integrantes Grupo-2:
+### Integrantes Grupo:
 - Francisco Luan
 - Guilherme de Oliveira
 - Rosemelry Mendes
